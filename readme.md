@@ -13,7 +13,12 @@ python devloper | Ai-ml | Data Science | Computer Science Student
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubhamraj22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubhamraj22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
+</div>
+<div align="center">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shubhamraj22&limit=5&theme=dark&combine_all_yearly_contributions=true)
