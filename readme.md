@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
+
 # 💫 About Me:
 python devloper | Ai-ml | Data Science | Computer Science Student
 
