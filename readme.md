@@ -41,12 +41,6 @@ python devloper | Ai-ml | Data Science | Computer Science Student
   <img width="280" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shubhamraj22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-  <h2 align="center">GitHub Profile Trophy </h2>
-</div>
-<div align="center">
   
 <h2 align="center">📈 Contribution Graph</h2>
 
