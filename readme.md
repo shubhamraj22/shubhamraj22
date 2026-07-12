@@ -28,7 +28,7 @@ python devloper | Ai-ml | Data Science | Computer Science Student
 # 🌠github stats
 <p align="left">
   <img width="430" src="https://github-readme-stats.shion.dev/api?username=shubhamraj22&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img align="right" width="320" src="./image1.webp"/>
+  <img align="right" width="320" src="./image1.png"/>
 </p>
 
 <div style="clear: both;"></div>
