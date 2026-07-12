@@ -33,9 +33,10 @@ python devloper | Ai-ml | Data Science | Computer Science Student
 
 <div style="clear: both;"></div>
 
-<p align="left">
-  <img width="430" src="https://streak-stats.demolab.com/?user=shubhamraj22&theme=dark&hide_border=false"/>
-</p>
+<p 
+  <div align="left">
+  <img width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamraj22&border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ff5555&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=ffffff&sideLabels=cccccc&dates=888888"/>
+</div></p>
 
 <p align="left">
   <img width="280" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shubhamraj22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
