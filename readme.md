@@ -47,9 +47,16 @@ python devloper | Ai-ml | Data Science | Computer Science Student
   <h2 align="center">GitHub Profile Trophy </h2>
 </div>
 <div align="center">
+  
+<h2 align="center">📈 Contribution Graph</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shubhamraj22&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamraj22&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&area_color=1f6f43&hide_border=true&title_color=3fb950&custom_title=Shubham%20Raj's%20GitHub%20Contribution%20Graph"/>
+</p>
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=shubhamraj22&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
 ![](https://komarev.com/ghpvc/?username=shubhamraj22&label=Profile%20Views&color=0e75b6&style=flat)
