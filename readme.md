@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&duration=2200&pause=750&color=DDDDDD&center=false&vCenter=true&width=550&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+%26+Generative+AI;Computer+Science+Engineer" alt="Typing SVG"/>
 
 
-## *Connect With Me*
+## *Connect With Me:*
 
 <p align="left">
   <a href="https://linkedin.com/in/shubhamraj22" target="_blank">
@@ -69,7 +69,7 @@
 
 </p>
 
-## *Github stats:*
+## *Github Stats:*
 <p align="left">
   <img width="430" src="https://github-readme-stats.shion.dev/api?username=shubhamraj22&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
   <img align="right" width="320" src="./image1.png"/>
@@ -87,15 +87,15 @@
 </p>
 
   
-<h2 align="center">📈Contribution Graph </h2>
+<h2 align="center">𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏 𝑮𝒓𝒂𝒑𝒉 📈</h2>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamraj22&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&area_color=1f6f43&hide_border=true&title_color=3fb950&custom_title=Shubham%20Raj's%20GitHub%20Contribution%20Graph"/>
 </p>
 
-## *🔝 Top Contributed Repo*
+## *🔝 Top Contributed Repository:*
 
-![](https://github-contributor-stats.vercel.app/api?username=shubhamraj22&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shubhamraj22&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 ---
 ![](https://komarev.com/ghpvc/?username=shubhamraj22&label=Profile%20Views&color=0e75b6&style=flat)
