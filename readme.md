@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="100%">
+  <img src="./banner2.png" alt="Banner" width="100%">
 </p>
 
 ## *About Me:*
-python devloper | Ai-ml | Data Science | Computer Science Student
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&duration=2200&pause=750&color=DDDDDD&center=false&vCenter=true&width=550&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+%26+Generative+AI;Computer+Science+Engineer" alt="Typing SVG"/>
 
 
 ## *Connect With Me*
